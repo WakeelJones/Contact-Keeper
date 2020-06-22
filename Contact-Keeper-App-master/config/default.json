@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Angry-Creative1:AngryCreative@test-ygsvj.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
